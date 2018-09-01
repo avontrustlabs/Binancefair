@@ -1,7 +1,5 @@
-# UnbankedX Smart contract 
+# Smart contract 
 
-0x5e7282e224ecd303d6484c1ce4d93ff076d911c0
-https://etherscan.io/address/0x5e7282e224ecd303d6484c1ce4d93ff076d911c0
 
 
 pragma solidity ^0.4.11;
