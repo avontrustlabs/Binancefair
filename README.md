@@ -1,4 +1,6 @@
-# Smart contract 
+
+
+# Smart contract sample 
 
 
 
@@ -6,8 +8,8 @@ pragma solidity ^0.4.11;
 
 contract Unbankedx { uint public _totalSupply = 1000000000000000000000000000;
 
-string public constant symbol = "UBX";
-string public constant name = "UnbankedX Token";
+string public constant symbol = "SQX";
+string public constant name = "Krispay Token";
 uint8 public constant decimals = 18;
 
 address public owner;
