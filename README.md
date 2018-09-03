@@ -5,9 +5,12 @@ Singapore Airlines is our first demo customers
 
 Features
 
--
--
--
+- Pay quickly in crypto to satisfy customers
+- Earlier updates compared to current state by email or phone
+- Route them on other airlines
+- Rank them by offloading risk
+- Pay 24-72hr in cash if required
+- Other unique services provided 
 
 
 References
