@@ -6,6 +6,7 @@ Singapore Airlines is our first demo customers
 Features
 
 - Pay quickly in crypto to satisfy customers
+- Claims can be traded on exchanges, may even earn you a profit
 - Earlier updates compared to current state by email or phone
 - Route them on other airlines
 - Rank them by offloading risk
