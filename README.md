@@ -7,7 +7,7 @@ The query results should include a score for each address. 100 represents that t
 We use a Telegram chatbot website, with a user account management system, plus a built-in business model.The fee can be debited from the query user’s account.The charge a small fee, in crypto, for each query, of which 80% goes to the contributor (submitter) of the information, and 20% goes to the platform for platform maintenance. Incentivize contributors to share bad (hacked or malicious) addresses, together with proof, to help tag more risky addresses 
 
 
-# Based on https://www.kaggle.com/knowledgegrappler/a-simple-nn-solution-with-keras-0-48611-pl
+# Logic 
 
 import math
 import re
