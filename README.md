@@ -1,3 +1,5 @@
+# Finalist in Binance Singapore Hackathon 2019 
+
 We built a platform for users to quickly check (via API and website) whether a wallet address is safe, i.e. not associated with any scam or fraud 
 
 Our API has two endpoints, (submit and query).Our system is API driven to support all interfaces whether it is a mobile app, bot or web solution, It uses a cloud based API backend that authenticates with wallets by their risk levels and identifies them if they are SAFU or not. It is tracking 2,000+ known scam wallets currently.
